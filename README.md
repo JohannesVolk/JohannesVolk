@@ -1,16 +1,14 @@
 # Hi, my name is Johannes
 
-A little bit about me:
-- I am studying Computer Science at the Technical University of Munich
-- My studies are focusing on Machine Learning and Computer Vision
+I am studying Computer Science at the Technical University of Munich
+
+My main areas of study are Machine Learning and Computer Vision
 
 ## Check out some of the projects I've previosuly worked on
 
 ### [Point-Set Alignment Using Weak Labels](https://github.com/wngTn/synthetic_dcp)
 
 You may want to see our [project report](https://github.com/wngTn/synthetic_dcp/blob/main/Project_Report.pdf) and [supplementary material](https://github.com/wngTn/synthetic_dcp/blob/main/Supplementary_Materials.pdf)
-
-#### Impressions:
 
 [![Visualization of the task](https://github.com/wngTn/synthetic_dcp/blob/main/assets/preview_video.png)](https://drive.google.com/file/d/10ExiSn-swk2jGCFB8Kq8de3IUifWTBWB/view?usp=share_link)
 

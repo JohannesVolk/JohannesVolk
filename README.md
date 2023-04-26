@@ -30,7 +30,7 @@ One can clearly notice the gradient leading to the area of greatest performance 
 
 Below is the search progression of a genetic algorithm that manages to converge to the optimal minimum discovered by exhaustive search.
 
-[![](https://drive.google.com/file/d/1rGCBhKJVZygtDZ3nLTSxhDiB1u6eahGD/view?usp=share_link)](https://drive.google.com/file/d/1DYT_7pp1Wa_OjKDNBrGEyHKjGc3wRqud/view?usp=share_link)
+[![video](https://drive.google.com/file/d/1rGCBhKJVZygtDZ3nLTSxhDiB1u6eahGD/view?usp=share_link)](https://drive.google.com/file/d/1DYT_7pp1Wa_OjKDNBrGEyHKjGc3wRqud/view?usp=share_link)
 
 # What I mainly use
 

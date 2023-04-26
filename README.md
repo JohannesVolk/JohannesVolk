@@ -2,7 +2,7 @@
 
 I am studying Computer Science at the Technical University of Munich. My main areas of study are Machine Learning and Computer Vision.
 
-I was nominated by TUM to do an international double degree in cooperation with the M.Sc. Data Science at the University of Queensland in Australia from 2024.
+I have been nominated by TUM to do an international double degree in cooperation with the M.Sc. Data Science at the University of Queensland in Australia starting February 2024.
 
 ## Check out some of the stuff I've previously worked on
 

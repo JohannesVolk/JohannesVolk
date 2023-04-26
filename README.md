@@ -30,7 +30,7 @@ One can clearly notice the gradient leading to the area of greatest performance 
 
 Below is the search progression of a genetic algorithm that manages to converge to the optimal minimum discovered by exhaustive search.
 
-[![](https://gitfront.io/r/JohannesVolk/kGpYddba232z/traffic-sign-classifier-robustness-testing/raw/rt_search_based/imgs/drive_video_preview.jpg)](https://drive.google.com/file/d/14JSosn3JALdvsQdWFVgUvGFUTY0LbB5e/view?usp=sharing)
+[![](https://drive.google.com/file/d/1rGCBhKJVZygtDZ3nLTSxhDiB1u6eahGD/view?usp=share_link)](https://drive.google.com/file/d/1DYT_7pp1Wa_OjKDNBrGEyHKjGc3wRqud/view?usp=share_link)
 
 # What I mainly use
 

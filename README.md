@@ -29,13 +29,3 @@ One can clearly notice the gradient leading to the area of greatest performance 
 Below is the search progression of a genetic algorithm that manages to converge to the optimal minimum discovered by exhaustive search.
 
 [![](drive_video_preview.PNG)](https://drive.google.com/file/d/1DYT_7pp1Wa_OjKDNBrGEyHKjGc3wRqud/view)
-
-# What I mainly use
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" width ="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png" width ="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Lightning_Logo_v2.png" width ="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Windows_logo_and_wordmark_-_2021.svg" width ="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Ubuntu_logo_orange.png" width ="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height ="25"/>
-

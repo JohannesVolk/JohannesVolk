@@ -1,6 +1,6 @@
 # 👋 Hi, my name is Johannes
 
-I am studying Computer Science at the Technical University of Munich. My main areas of study are Machine Learning and Computer Vision.
+I am studying Computer Science at the Technical University of Munich and Data Science at the University of Queensland. My main areas of study are Machine Learning and Computer Vision.
 
 ## Check out some of the stuff I've previously worked on
 

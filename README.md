@@ -11,6 +11,8 @@ We propose a framework to analyze the live compared to the historical network de
 
 You may want to see our [project report](https://github.com/JohannesVolk/data7001-project/blob/main/report.pdf).
 
+---
+
 ### [Point-Set Alignment Using Weak Labels](https://github.com/wngTn/synthetic_dcp)
 
 You may want to see our [project report](https://github.com/wngTn/synthetic_dcp/blob/main/Project_Report.pdf) and [supplementary material](https://github.com/wngTn/synthetic_dcp/blob/main/Supplementary_Materials.pdf)
@@ -21,6 +23,7 @@ In this course project we used the DL-based Point Set Registration Method Deep C
 
 <img src="https://github.com/wngTn/synthetic_dcp/blob/main/assets/data_augmentation_vis.gif" width="pagewidth"/>
 
+---
 
 ### [Search-Based Robustness Testing for traffic sign classifiers](https://gitfront.io/r/JohannesVolk/kGpYddba232z/traffic-sign-classifier-robustness-testing/)
 

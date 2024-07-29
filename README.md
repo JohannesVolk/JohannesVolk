@@ -1,8 +1,15 @@
 # 👋 Hi, my name is Johannes
 
-I am studying Computer Science at the Technical University of Munich and Data Science at the University of Queensland. My main areas of study are Machine Learning and Computer Vision.
+I am a postgraduate studying Computer Science at the Technical University of Munich and Data Science at the University of Queensland.
 
 ## Check out some of the stuff I've previously worked on
+
+
+### [A Framework for Analysing Delays within Public Transport Networks](https://github.com/JohannesVolk/data7001-project)
+
+We propose a framework to analyze the live compared to the historical network delay in public transport systems.
+
+You may want to see our [project report](https://github.com/JohannesVolk/data7001-project/blob/main/report.pdf).
 
 ### [Point-Set Alignment Using Weak Labels](https://github.com/wngTn/synthetic_dcp)
 
